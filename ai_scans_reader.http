@@ -1,0 +1,6 @@
+@ai_scans_reader_HostAddress = http://localhost:5264
+
+GET {{ai_scans_reader_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
