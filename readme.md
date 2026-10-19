@@ -2,9 +2,9 @@
 
 ## Стек
 
-.NET 10, ASP.NET Core Web API
-Ollama (локально), модель qwen3-vl:8b-instruct
-FileSystemWatcher, BackgroundService, DI, IOptions
+.NET 10, ASP.NET Core Web API,
+Ollama (локально), модель qwen3-vl:8b-instruct,
+FileSystemWatcher, BackgroundService, DI, IOptions,
 Swashbuckle.AspNetCore для Swagger
 
 ## Описание
